@@ -59,7 +59,7 @@ Here the certifications I’ve completed:
 
 ### 📂 Projects I'm Proud Of
 - 🛡️ **Password Strength Checker** – A simple Python script to detect weak passwords and encourage stronger ones.
-
+  https://github.com/Myaser2007/python-project
 ---
 
 ### 📈 GitHub Stats
