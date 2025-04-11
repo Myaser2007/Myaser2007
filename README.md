@@ -41,6 +41,7 @@ Here the certifications I’ve completed:
 - **Linux**: Comfortable with Linux systems and command-line.
 - **Wireshark**: Skilled in network packet analysis.
 - **TCPdump**: Proficient in capturing and analyzing network traffic.
+- **Generative AI**: Used generative AI to support threat analysis and create security documentation.
 
 
 ---
