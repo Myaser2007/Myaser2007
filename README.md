@@ -62,7 +62,7 @@ Here the certifications I’ve completed:
   https://github.com/Myaser2007/python-project
 
 - 🔒 Controls and Compliance Checklist
-(Google Cybersecurity Certificate Project)
+(Google Cybersecurity Certificate Project) https://github.com/Myaser2007/cybersecurity-porject
 ---
 
 ### 📈 GitHub Stats
