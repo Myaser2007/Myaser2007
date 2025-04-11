@@ -61,7 +61,7 @@ Here the certifications I’ve completed:
 - 🛡️ **Password Strength Checker** – A simple Python script to detect weak passwords.
   https://github.com/Myaser2007/python-project
 
-  🔒 Controls and Compliance Checklist
+- 🔒 Controls and Compliance Checklist
 (Google Cybersecurity Certificate Project)
 ---
 
