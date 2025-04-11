@@ -25,14 +25,40 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 📜 Certifications
 
-<p>
+Here the certifications I’ve completed:
+
+- Google cybersecurity certificate
+
+---
+
+## 🧠 Skills
+
+- **Python**: Knowledgeable in Python.
+- **SQL**: Experienced in database managementand querying.
+- **Linux**: Comfortable with Linux systems and command-line.
+- **Wireshark**: Skilled in network packet analysis.
+- **TCPdump**: Proficient in capturing and analyzing network traffic.
+
+
+---
+
+
+<p> 
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" height="40" alt="Cybersecurity" />
-</p>
+
+
+</p>                                                                                                                                                                            
+                                                                                                                                                                                
+---
+
+### 📂 Projects I'm Proud Of
+- 🛡️ **Password Strength Checker** – A simple Python script to detect weak passwords and encourage stronger ones.
 
 ---
 
@@ -41,11 +67,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-### 📂 Projects I'm Proud Of
-- 🛡️ **Password Strength Checker** – A simple Python script to detect weak passwords and encourage stronger ones.
 
 
 ---
