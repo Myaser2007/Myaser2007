@@ -30,6 +30,7 @@
 Here the certifications I’ve completed:
 
 - Google cybersecurity certificate
+- Certificate of appreciation from the administration of Al Noor International School
 
 ---
 
