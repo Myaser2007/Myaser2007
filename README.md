@@ -21,7 +21,7 @@
 ### 🎯 Goals
 - 🔐🤖My goal is to become a Cybersecurity Specialist who leverages the power of Artificial Intelligence to build smarter, safer systems
 - 🎓 Get into an outstanding university in the UAE (👀)
-- 💡 Use my knowledge to give back and strengthen my country’s tech and security capabilities
+- 💡 Use my knowledge to give back and strengthen the country’s tech and security capabilities
 
 ---
 
