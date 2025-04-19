@@ -31,6 +31,7 @@ Here are the certifications :
 
 - Google Cybersecurity Certification by Google
 on Coursera, Apr 18, 2025
+https://coursera.org/share/ac4f7442a990233d44b9922e22b214a6
 
 - Certificate of appreciation from the administration of Al Noor International School
 
