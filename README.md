@@ -1,7 +1,7 @@
 <!-- GitHub Profile README.md -->
 
 <h1 align="center">Hi 👋, I'm Myaser</h1>
-<h3 align="center">Final Year High School Student | Aspiring Cybersecurity Expert | Python Enthusiast</h3>
+<h3 align="center">Final Year High School Student | Aspiring Cybersecurity Expert | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
@@ -29,7 +29,9 @@
 
 Here are the certifications :
 
-- Google cybersecurity certificate
+- Google Cybersecurity Certification by Google
+on Coursera, Apr 18, 2025
+
 - Certificate of appreciation from the administration of Al Noor International School
 
 ---
